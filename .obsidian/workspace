@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "688b35e3a2c666c4",
+        "id": "938545b42a37ffd7",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Bins/Excalidraw/big picture of networking.excalidraw.md"
+            "file": "Notes/CyberKatze Notes.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -23,7 +25,7 @@
       {
         "id": "aafbd24a8daacc5d",
         "type": "tabs",
-        "dimension": 62.34042553191489,
+        "dimension": 68.73684210526316,
         "children": [
           {
             "id": "2d489bd1f8782e4e",
@@ -61,7 +63,7 @@
       {
         "id": "2a49fc8a921dc6b6",
         "type": "tabs",
-        "dimension": 37.659574468085104,
+        "dimension": 31.263157894736842,
         "children": [
           {
             "id": "eb43068898edb177",
@@ -69,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bins/Excalidraw/big picture of networking.excalidraw.md",
+                "file": "Notes/CyberKatze Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -92,7 +94,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.28548580833378195,
+                  "scale": 0.20363002201142014,
                   "close": true
                 }
               }
@@ -102,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 300.5
   },
   "right": {
     "id": "68c91c329a5697a1",
@@ -143,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/Excalidraw/big picture of networking.excalidraw.md",
+                "file": "Notes/CyberKatze Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,17 +174,17 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "688b35e3a2c666c4",
+  "active": "938545b42a37ffd7",
   "lastOpenFiles": [
-    "Bins/Excalidraw/big picture of networking.excalidraw.md",
+    "Notes/CyberKatze Notes.md",
+    "Notes/Frame.md",
+    "Notes/Hub.md",
+    "Notes/IP.md",
+    "Notes/MAC Address.md",
     "Notes/Network.md",
-    "Notes/Advanced Tables Plugin.md",
-    "Utility/Tagging.md",
-    "Templates/plugin.md",
-    "Notes/Untitled.md",
-    "README.md",
-    "Utility/Plugins.md",
-    "Notes/Better Word Count Plugin.md",
-    "Notes/Quick Switcher++ Plugin.md"
+    "Notes/OSI Model.md",
+    "Notes/Packet.md",
+    "Notes/Router.md",
+    "Notes/Segment.md"
   ]
 }
