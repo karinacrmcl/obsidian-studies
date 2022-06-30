@@ -3,20 +3,27 @@ tags: seedbox
 type: article
 status: backlog
 priority: 2
-publish: true
+publish: false
 aliases: 
 ---
 
-- `Title:` [[<%tp.file.title%>]]
-- `Type:` [[(]]
-- `Tags:` 
+**Links:** 
+
 - `Author:` 
-	- `Notable Authors:` 
 - `Link:` 
 - `Reference:` 
 - `Publish Date:` 
 - `Reviewed Date:` [[<%tp.date.now()%>]]
-
 ---
 
+# Title: <%tp.file.title%>
+
+
+> [!NOTE]+ ### Words
+> 
+
+> [!EXAMPLE]+ ### Sentences
+> 
+
+## Related:
 - 

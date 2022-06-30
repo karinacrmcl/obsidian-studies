@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Unclear parts (personal).md",
+            "file": "Notes/Network.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Unclear parts (personal).md",
+                "file": "Notes/Network.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "68c91c329a5697a1",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Unclear parts (personal).md",
+                "file": "Notes/Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,15 +176,15 @@
   },
   "active": "a7b59c5380f1120c",
   "lastOpenFiles": [
+    "Notes/Network.md",
     "Notes/Unclear parts (personal).md",
+    "Notes/Router.md",
+    "Notes/OSI Model.md",
+    "Notes/IP.md",
+    "Notes/Frame.md",
+    "Notes/Hub.md",
+    "Notes/CyberKatze Notes.md",
     "Journal/Annually/2022.md",
-    "Journal/Daily/2022-04-25.md",
-    "Journal/Monthly/2022-04.md",
-    "Journal/Weekly/2022-W18.md",
-    "Utility/Tagging.md",
-    "Utility/Plugins.md",
-    "Templates/plugin.md",
-    "Media/Pasted image 20220419223618.png",
-    "Notes/Network.md"
+    "Journal/Daily/2022-04-25.md"
   ]
 }
