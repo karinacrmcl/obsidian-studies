@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "68c91c329a5697a1",
@@ -177,13 +178,14 @@
   "active": "a7b59c5380f1120c",
   "lastOpenFiles": [
     "Notes/Unclear parts (personal).md",
-    "Notes/Network.md",
-    "Notes/Advanced Tables Plugin.md",
+    "Journal/Annually/2022.md",
+    "Journal/Daily/2022-04-25.md",
+    "Journal/Monthly/2022-04.md",
+    "Journal/Weekly/2022-W18.md",
     "Utility/Tagging.md",
-    "Templates/plugin.md",
-    "README.md",
     "Utility/Plugins.md",
-    "Notes/Better Word Count Plugin.md",
-    "Notes/Quick Switcher++ Plugin.md"
+    "Templates/plugin.md",
+    "Media/Pasted image 20220419223618.png",
+    "Notes/Network.md"
   ]
 }
