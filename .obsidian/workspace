@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Frame.md",
+            "file": "Notes/Hub.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Frame.md",
+                "file": "Notes/Hub.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Frame.md",
+                "file": "Notes/Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   },
   "active": "a7b59c5380f1120c",
   "lastOpenFiles": [
+    "Notes/Hub.md",
     "Notes/Frame.md",
     "Notes/CyberKatze Notes.md",
     "Media/Pasted image 20220419223618.png",
@@ -184,7 +185,6 @@
     "Notes/Unclear parts (personal).md",
     "Notes/Router.md",
     "Notes/OSI Model.md",
-    "Notes/IP.md",
-    "Notes/Hub.md"
+    "Notes/IP.md"
   ]
 }

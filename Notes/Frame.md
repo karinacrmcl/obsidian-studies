@@ -1,6 +1,6 @@
 ---
 tags: note
-status: seedling
+status: fern
 priority: 2
 publish: false
 aliases: 
