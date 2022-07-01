@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Network.md",
+            "file": "Notes/Frame.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Network.md",
+                "file": "Notes/Frame.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Network.md",
+                "file": "Notes/Frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,15 +176,15 @@
   },
   "active": "a7b59c5380f1120c",
   "lastOpenFiles": [
+    "Notes/Frame.md",
+    "Notes/CyberKatze Notes.md",
+    "Media/Pasted image 20220419223618.png",
+    "Media/output.gif",
     "Notes/Network.md",
     "Notes/Unclear parts (personal).md",
     "Notes/Router.md",
     "Notes/OSI Model.md",
     "Notes/IP.md",
-    "Notes/Frame.md",
-    "Notes/Hub.md",
-    "Notes/CyberKatze Notes.md",
-    "Journal/Annually/2022.md",
-    "Journal/Daily/2022-04-25.md"
+    "Notes/Hub.md"
   ]
 }
