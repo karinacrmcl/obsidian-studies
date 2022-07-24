@@ -7,7 +7,16 @@ aliases:
 ---
 **Links:** [[Network]]
 # OSI Model
+- [[Application Layer]]
+- [[Presentation Layer]]
+- [[Session Layer]]
+- [[Transport Layer]]
+- [[Network Layer]]
+- [[Data Link Layer]]
+- [[Physical Layer]]
 
+
+![[OSI Model.excalidraw]]
 
 ## Reference:
 

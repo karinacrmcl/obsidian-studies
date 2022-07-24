@@ -31,17 +31,6 @@ tags: utility
 ### views
 ### thoughts
 ## Name Prefix
-- [[{]] *<=>* `Books`
-- [[@]] *<=>* `People`
-- [[!]] *<=>* `Quotes`
-- [[%]] *<=>* `Podcasts`
-- [[+]] *<=>* `YouTube`
-- [[(]] *<=>* `Articles`
-- [[&]] *<=>* `Papers`
-- [[=]] *<=>* `Thoughts`
-- [[_]] *<=>* `Tutorial`
-- [[Repo]] *<=>* `GitHub Repository`
-
  ## 🕸️ Graph Groupings
 	- 🟩️ Greens = Zettelkasten notes
 	- 🟪️ Literature Notes
